@@ -1,3 +1,4 @@
+//Author is Erik de Zeeuw
 #include "set.hpp"
 #include <iostream>
 #include "catch.hpp"
